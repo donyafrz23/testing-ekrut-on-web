@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Forgot Password</name>
+   <tag></tag>
+   <elementGuidId>25b2c807-9a59-46e4-ab98-9d782ca3b61c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.StyledButton-sc-2tixpb.hxahma.ant-btn-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8e2dda51-ea8b-4ee5-ab38-6b6ec9cf0a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>909e5c0c-853a-4c51-be42-848c8474c06e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn StyledButton-sc-2tixpb hxahma ant-btn-link</value>
+      <webElementGuid>6255d8a8-c0cf-4c75-81ed-e733790a41cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forgot Password</value>
+      <webElementGuid>de167d19-100a-41e5-8667-ca93a8830fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-bxivhb esqsio&quot;]/div[@class=&quot;gst-jumbotron-v2 bg-home-v2-3 gst-container-auth&quot;]/div[@class=&quot;react-reveal gst-container__section&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-24 ant-col-lg-10&quot;]/div[@class=&quot;gst-auth-eds&quot;]/div[@class=&quot;ant-row ant-row-middle SRow-sc-jpo9rp czTDaa&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;Wrapper-sc-6qqu0z chfPAn eds-wrapper&quot;]/div[@class=&quot;Content-sc-apgxyy cbbSPv&quot;]/form[@class=&quot;content__body&quot;]/div[@class=&quot;Flex-sc-1mu0fh0 gaQqWg&quot;]/button[@class=&quot;ant-btn StyledButton-sc-2tixpb hxahma ant-btn-link&quot;]</value>
+      <webElementGuid>a59fea79-a2d3-4f71-8b63-a57727c245a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>582734ac-529e-4303-a2b9-c3a78a9802a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div[2]/div/div/div/div/div/form/div[3]/button</value>
+      <webElementGuid>9f012bae-56b6-4ef2-b0cd-f26c55ff4e50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember Me'])[1]/following::button[1]</value>
+      <webElementGuid>f598ccbe-5535-4150-848d-ed7dc031a380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>d2a60808-2fd5-45fe-8e9d-52f00b5a107b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::button[1]</value>
+      <webElementGuid>a30217f6-8fa1-4777-bd8a-56493b7af13f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>ca5b7b80-f5d0-4430-85aa-d587182cec6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Forgot Password' or . = 'Forgot Password')]</value>
+      <webElementGuid>fea3b897-ce35-4949-bd10-caf3de87d1cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
