@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SIGNOUT</name>
+   <tag></tag>
+   <elementGuidId>52cfd516-c6fa-4d00-bd60-b0bc4abde832</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-dropdown-menu-item.eds-navheader-dropdown__menu-item.ant-dropdown-menu-item-only-child.ant-dropdown-menu-item-active > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'SIGNOUT')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>52112161-e052-4572-b4b3-fee955e0d2b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/logout</value>
+      <webElementGuid>6749f843-e6d5-4361-b03d-4c25639571b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SIGNOUT</value>
+      <webElementGuid>90ce913a-6d32-4dd8-91b1-15daa28b3abc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[5]/div[1]/div[@class=&quot;ant-dropdown ant-dropdown-placement-bottomRight&quot;]/ul[@class=&quot;ant-dropdown-menu eds-navheader-dropdown ant-dropdown-menu-light ant-dropdown-menu-root ant-dropdown-menu-vertical&quot;]/li[@class=&quot;ant-dropdown-menu-item eds-navheader-dropdown__menu-item ant-dropdown-menu-item-only-child ant-dropdown-menu-item-active&quot;]/a[1]</value>
+      <webElementGuid>f53b0cb2-1b6e-4c1d-846c-15449976601b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'SIGNOUT')]</value>
+      <webElementGuid>32b81a46-f30a-4001-ad47-677480f6adfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SETTINGS'])[1]/following::a[1]</value>
+      <webElementGuid>43bc3f15-2198-4b5c-baae-0de19755b964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW PROFILE'])[1]/following::a[2]</value>
+      <webElementGuid>be0a1d4d-bd74-43af-b6d5-bb93f5e061da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SIGNOUT']/parent::*</value>
+      <webElementGuid>48a0c2d1-1e41-4995-af62-a528a8560d20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/logout')]</value>
+      <webElementGuid>c877725b-9e6f-495f-8c8f-e9749bfc78cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>23438d1b-41cd-454e-a59c-44fba261b11e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/logout' and (text() = 'SIGNOUT' or . = 'SIGNOUT')]</value>
+      <webElementGuid>322bf320-cf16-4df0-9006-1ca536e8bb2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
