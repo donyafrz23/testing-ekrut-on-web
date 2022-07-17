@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Required field_Email</name>
+   <tag></tag>
+   <elementGuidId>8819c87f-a972-49ae-b920-d503b0638182</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.eds-input-group__error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div[2]/div/div/div/div/div/form/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b0cb36f-d88c-4d59-b1fc-209ba8fb62c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eds-input-group__error</value>
+      <webElementGuid>faa9e9d6-8126-4cb4-aa80-a9912103ea5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>* Required field!</value>
+      <webElementGuid>cc8b0016-dc29-45b4-afe9-03390ef5246c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-bxivhb esqsio&quot;]/div[@class=&quot;gst-jumbotron-v2 bg-home-v2-3 gst-container-auth&quot;]/div[@class=&quot;react-reveal gst-container__section&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-24 ant-col-lg-10&quot;]/div[@class=&quot;gst-auth-eds&quot;]/div[@class=&quot;ant-row ant-row-middle SRow-sc-jpo9rp czTDaa&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;Wrapper-sc-6qqu0z chfPAn eds-wrapper&quot;]/div[@class=&quot;Content-sc-apgxyy cbbSPv&quot;]/form[@class=&quot;content__body&quot;]/div[@class=&quot;eds-input-group&quot;]/div[@class=&quot;eds-input-group__error&quot;]</value>
+      <webElementGuid>b2c1c105-4d43-4620-bd22-6de9e66d0b10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div[2]/div/div/div/div/div/form/div/div</value>
+      <webElementGuid>99b56445-891b-4962-bd4b-3fcd1d3a05af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[1]</value>
+      <webElementGuid>abb75a3e-b081-4c04-a9d3-0f91fed41c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login to Your Account'])[1]/following::div[2]</value>
+      <webElementGuid>f602a85d-6834-4e5a-a4cb-9383439c463c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[1]</value>
+      <webElementGuid>80623217-19df-4bc2-9f9f-8a64f986c070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember Me'])[1]/preceding::div[2]</value>
+      <webElementGuid>0efa8707-ef54-4003-84b1-99cef7dab785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='* Required field!']/parent::*</value>
+      <webElementGuid>9c004a5a-6146-4741-907f-2b3ad9c9323a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>941044c0-b764-438a-bf14-786b1bfc3af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '* Required field!' or . = '* Required field!')]</value>
+      <webElementGuid>ff029f78-10e3-400c-a2c0-ae3686e37d44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

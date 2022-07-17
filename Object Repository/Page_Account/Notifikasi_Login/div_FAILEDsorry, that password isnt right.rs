@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FAILEDsorry, that password isnt right</name>
+   <tag></tag>
+   <elementGuidId>d0e458ef-d820-4807-a503-0df93f98b261</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.c-toast.c-toast--error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[4]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5e7dda32-45fd-4cb8-abcd-00d1b89b002c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-toast c-toast--error</value>
+      <webElementGuid>49e250ce-f240-4e98-bf1f-31f6d5075c15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FAILEDsorry, that password isn't right.</value>
+      <webElementGuid>0df7e541-03e1-430d-8cbc-f48cfcc4e3d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;Toastify&quot;]/div[@class=&quot;Toastify__toast-container Toastify__toast-container--top-right&quot;]/div[@class=&quot;Toastify__toast Toastify__toast--default c-toast-cont&quot;]/div[@class=&quot;Toastify__toast-body&quot;]/div[@class=&quot;c-toast c-toast--error&quot;]</value>
+      <webElementGuid>e68bf176-93a0-478b-a02e-758a130aeada</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[4]/div/div/div/div</value>
+      <webElementGuid>a9a00869-5afb-431c-9051-c1b12905e2da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sitemap'])[1]/following::div[5]</value>
+      <webElementGuid>30c6e6ec-029a-4aee-98da-509085430fbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms and Condition'])[1]/following::div[6]</value>
+      <webElementGuid>21bdb59d-f113-4dbd-9291-840ebed976a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div</value>
+      <webElementGuid>f5a93e42-b2c2-4aea-a4a8-ce6f5472e6d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;FAILEDsorry, that password isn&quot; , &quot;'&quot; , &quot;t right.&quot;) or . = concat(&quot;FAILEDsorry, that password isn&quot; , &quot;'&quot; , &quot;t right.&quot;))]</value>
+      <webElementGuid>ac98f06b-b0cc-4261-872e-c721e951ba38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

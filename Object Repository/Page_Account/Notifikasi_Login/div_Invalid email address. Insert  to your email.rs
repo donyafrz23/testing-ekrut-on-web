@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Invalid email address. Insert  to your email</name>
+   <tag></tag>
+   <elementGuidId>d5f378aa-62d9-4355-979e-a537f3d5468c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.eds-input-group__error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div[2]/div/div/div/div/div/form/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>54cb20e9-53cf-4969-828f-671e5572b941</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eds-input-group__error</value>
+      <webElementGuid>511c673e-90b6-40ed-948f-42eeffd31f6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>* Invalid email address. Insert @ to your email</value>
+      <webElementGuid>30d2bfeb-416f-4830-9694-7c0b393846d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-bxivhb esqsio&quot;]/div[@class=&quot;gst-jumbotron-v2 bg-home-v2-3 gst-container-auth&quot;]/div[@class=&quot;react-reveal gst-container__section&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-24 ant-col-lg-10&quot;]/div[@class=&quot;gst-auth-eds&quot;]/div[@class=&quot;ant-row ant-row-middle SRow-sc-jpo9rp czTDaa&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;Wrapper-sc-6qqu0z chfPAn eds-wrapper&quot;]/div[@class=&quot;Content-sc-apgxyy cbbSPv&quot;]/form[@class=&quot;content__body&quot;]/div[@class=&quot;eds-input-group&quot;]/div[@class=&quot;eds-input-group__error&quot;]</value>
+      <webElementGuid>60faf49f-e356-4bc0-bd42-8da173c87982</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div[2]/div/div/div/div/div/form/div/div</value>
+      <webElementGuid>36027138-6017-4342-8742-81ae813a98d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[1]</value>
+      <webElementGuid>51cbd9c4-6476-47b6-ae33-27c4cdfe8aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login to Your Account'])[1]/following::div[2]</value>
+      <webElementGuid>e776314d-d55d-45af-8eef-9ea07a3cf4f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[1]</value>
+      <webElementGuid>81950f40-82d0-4237-9d6a-81e42488884e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='* Required field!'])[1]/preceding::div[1]</value>
+      <webElementGuid>3c185e91-1196-4c44-94a2-d5cdb116d89f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='* Invalid email address. Insert @ to your email']/parent::*</value>
+      <webElementGuid>825bdd5d-1ff6-48dd-b15c-32f75cd512a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>c58d8a0f-d398-4af0-beca-bbef6efae890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '* Invalid email address. Insert @ to your email' or . = '* Invalid email address. Insert @ to your email')]</value>
+      <webElementGuid>d2fadead-87d3-47b0-9557-260c7d7be322</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

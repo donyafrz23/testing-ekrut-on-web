@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Required field_Password</name>
+   <tag></tag>
+   <elementGuidId>83d1c9ef-3b25-484f-ab9c-9f67a53d91b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div[2]/div/div/div/div/div/form/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>57437b28-5aa5-4fe2-99e5-e446ca4f3edf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eds-input-group__error</value>
+      <webElementGuid>837b8004-adb8-41a9-9c31-3d669b0cb676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>* Required field!</value>
+      <webElementGuid>f957d281-1354-4985-b9f9-beaab14004ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-bxivhb esqsio&quot;]/div[@class=&quot;gst-jumbotron-v2 bg-home-v2-3 gst-container-auth&quot;]/div[@class=&quot;react-reveal gst-container__section&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-24 ant-col-lg-10&quot;]/div[@class=&quot;gst-auth-eds&quot;]/div[@class=&quot;ant-row ant-row-middle SRow-sc-jpo9rp czTDaa&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;Wrapper-sc-6qqu0z chfPAn eds-wrapper&quot;]/div[@class=&quot;Content-sc-apgxyy cbbSPv&quot;]/form[@class=&quot;content__body&quot;]/div[@class=&quot;eds-input-group&quot;]/div[@class=&quot;eds-input-group__error&quot;]</value>
+      <webElementGuid>224d63ae-d93e-4de7-8956-b9ce0c6eb74a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div[2]/div/div/div/div/div/form/div[2]/div</value>
+      <webElementGuid>1cc6cf2f-bb47-4015-af68-29d584be53ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[1]</value>
+      <webElementGuid>d35bb441-e6ca-410b-9f38-739428b63ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='* Required field!'])[1]/following::div[2]</value>
+      <webElementGuid>4d9793be-7952-437a-a416-c002a33ba3a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember Me'])[1]/preceding::div[1]</value>
+      <webElementGuid>4f51bc51-3b97-4573-8dd2-7263c9839a39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password'])[1]/preceding::div[4]</value>
+      <webElementGuid>6d71bc7d-6cad-4233-82b6-cc849dfc603f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div</value>
+      <webElementGuid>9b4fcebc-faf8-4e5d-9fa9-5bb4c91c16b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '* Required field!' or . = '* Required field!')]</value>
+      <webElementGuid>0f4da0cb-17e9-467b-9e57-4f5af51c5449</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
